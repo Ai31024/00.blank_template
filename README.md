@@ -1,8 +1,7 @@
 
 # Blank Template for Express Servers
 
-This template contains necessary files to write express workloads effortlessly.
-You can rename the template folder and this README file after cloning, according to your project.
+This template contains necessary files to write express workloads effortlessly. You can rename the template folder and this README file after cloning, according to your project. Currently the port is set to 3000.
 
 ## How to use
 
