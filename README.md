@@ -7,7 +7,7 @@ This template contains necessary files to write express workloads effortlessly.
 
 To use this, follow the instructions
 
-1. git clone <https://github.com/Ai30124/00.blank_template.git>
+1. git clone <https://github.com/Ai31024/00.blank_template.git>
 
 2. ```bash
     npm i 
