@@ -8,7 +8,9 @@ You can rename the template folder and this README file after cloning, according
 
 To use this, follow the instructions
 
-1. git clone <https://github.com/Ai31024/00.blank_template.git>
+1. ```bash
+    git clone https://github.com/Ai31024/00.blank_template.git
+    ```
 
 2. ```bash
     npm i 
